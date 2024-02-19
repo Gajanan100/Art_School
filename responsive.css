@@ -1,0 +1,104 @@
+@media screen and (max-width:1200px) {
+
+
+     body{
+        font-family: Ubuntu, sans-serif !important;
+
+
+  }
+
+    .g_header_img
+    {
+        font-family: Ubuntu, sans-serif !important;
+        width: 100% !important;
+        /* max-width: 768px !important; */
+    background:url("https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/311ebf9ec39a5c1f8b8241af/pexelsphoto1927507.jpeg");
+    background-repeat: no-repeat;
+    /* background-size: contain; */
+    background-position: center;
+    vertical-align: center;
+    width: fit-content;
+    background-size: cover;
+    
+
+    }
+    .g_header_img h1
+    {
+        padding-top: 50px;
+        font-size: 80px;
+        text-transform: uppercase;
+        font-weight: 700;
+        /* margin: 10px 10px 0; */
+    
+
+        
+    }
+
+    .g_header_img h2
+    {
+        font-size: 60px ;
+        padding-top: 240px ;
+        color: white;
+
+        padding-left: 0px !important;
+        text-transform: uppercase;
+        font-weight: 700;
+        /* margin: 10px 10px 0; */
+        }
+
+    /*---------------------------middle section -----------*/
+    /* .g_middle_Section
+    {  width: 100% !important;
+
+        width: fit-content;
+        background-size: cover;
+
+
+    } */
+
+    .g_middle_Section_left h2{
+        font-size: 60px !important;
+        text-transform: uppercase;
+        font-weight: 700;
+        margin: 10px 10px 0;
+    
+    }
+    .g_middle_Section .g_middle_Section_left
+{
+    padding: 25px;
+    box-sizing: border-box;
+    padding-top: 160px;
+}
+ .g_middle_Section .g_middle_Section_right
+ {
+    padding: 25px;
+    box-sizing: border-box;
+    padding-top: 140px;
+    font-size: 18px;
+    padding-bottom: 140px;
+ }
+
+ /*-------------------Gallay_--*/
+
+ .g_garrary_heading p
+{
+    font-size: 18px;
+    text-align: justify;
+    
+}
+
+    
+    /* -----------------------g_footer--------- */
+    /* .g_footer
+    {
+       height: 100px;
+       background: #333333;
+       
+    }   
+    .g_footer p
+    {
+        padding-top: 500px;
+    } */
+    
+}
+
