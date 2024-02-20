@@ -34,9 +34,9 @@
 
     .g_header_img h2
     {
-        font-size: 120px  ;
+        font-size: 140px  ;
         padding-top: 300px ;
-        padding-right:100px ;
+        padding-right:120px ;
         color: white;
 
         padding-left: 0px !important;
@@ -59,6 +59,7 @@
         font-size: 70px !important;
         text-transform: uppercase;
         font-weight: 800;
+        padding-right: 60px;
         margin: 10px 0px 0;
     
     }
