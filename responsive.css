@@ -66,12 +66,12 @@
         font-size: 30px ;
         text-transform: uppercase;
         font-weight: 500;
-        margin: 10px 0px 0;
+        /* margin: 10px 0px 0; */
     
     }
     g_middle_Section_left h3{
         font-size: 60px;
-        padding-right: 20px !important;
+        /* padding-right: 20px !important; */
     }
     .g_middle_Section .g_middle_Section_left
 {
@@ -88,11 +88,16 @@
     padding-bottom: 140px;
  }
 
+ .g_library_section
+ {
+    padding: 20px 20px 0;
+ }
+
  /*-------------------Gallay_--*/
-/* .g_gallary_container
+.g_gallary_container
 {
     margin: 20px 20px 0;
-} */
+}
  .g_garrary_heading p
 {
     font-size: 18px;
