@@ -34,9 +34,9 @@
 
     .g_header_img h2
     {
-        font-size: 120px  ;
+        font-size: 90px  ;
         padding-top: 300px ;
-        padding-right:180px !important;
+        /* padding-right:200px !important; */
         color: white;
 
         padding-left: 0px !important;
