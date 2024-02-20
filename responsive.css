@@ -12,10 +12,10 @@
         /* max-width: 768px !important; */
     background:url("https://images03.nicepage.com/a1389d7bc73adea1e1c1fb7e/311ebf9ec39a5c1f8b8241af/pexelsphoto1927507.jpeg");
     background-repeat: no-repeat;
-    /* background-size: contain; */
+    background-size: contain;
     background-position: center;
     vertical-align: center;
-    width: fit-content;
+    /* width: fit-content; */
     background-size: cover;
     
 
