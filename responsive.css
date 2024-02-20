@@ -3,6 +3,8 @@
 
      body{
         font-family: Ubuntu, sans-serif !important;
+        width: 100% !important;
+
   }
 
     .g_header_img
@@ -46,14 +48,14 @@
         }
 
     /*---------------------------middle section -----------*/
-    /* .g_middle_Section
-    {  width: 100% !important;
+    .g_middle_Section
+    { 
+         width: 100% !important;
 
-        width: fit-content;
         background-size: cover;
 
 
-    } */
+    }
     .g_middle_Section
     {
         width: 100%;
