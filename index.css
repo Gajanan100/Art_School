@@ -97,9 +97,6 @@ padding-right: 100px;
    font-size: 18px ;
 
  }
- /* .g_Section_allProgram p{
-    font-size: 40px !important;
- } */
  .g_icon_program img{
 
     width: 50px;
@@ -108,16 +105,11 @@ padding-right: 100px;
     padding: 0px !important;
     margin: 0px !important;
     text-align: justify;
-    /* color: #7da2a9 !important; */
  }
   .g_icon_program p{
     font-size: 18px ;
 
  }
- /* .g_icon_program .text_font p
- {    
-    font-size: 35px !important;
- } */
 
  /*----------------------------Library Images */
 

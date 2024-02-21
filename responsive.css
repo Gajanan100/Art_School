@@ -3,8 +3,7 @@
 
      body{
         font-family: Ubuntu, sans-serif !important;
-                width: 100% !important;
-
+        width: 100% !important;
   }
 
     .g_header_img
@@ -87,12 +86,6 @@
     font-size: 18px;
     padding-bottom: 140px;
  }
-
- /*-------------------Gallay_--*/
-.g_gallary_container
-{
-    margin: 20px 20px 0;
-}
  .g_garrary_heading p
 {
     font-size: 18px;
@@ -101,17 +94,6 @@
 }
 
     
-    /* -----------------------g_footer--------- */
-    /* .g_footer
-    {
-       height: 100px;
-       background: #333333;
-       
-    }   
-    .g_footer p
-    {
-        padding-top: 500px;
-    } */
     
 }
 
